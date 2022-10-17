@@ -3,5 +3,6 @@ noniin nyt on tekstitiedosto jee.
 Echo "jotain" > jotain.txt -> lisää kansioon tekstitiedoston!
 
 
+sfgjohasdpjhfadspjs
 
 
